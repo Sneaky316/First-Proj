@@ -467,7 +467,7 @@ body{
 /*начало мейна*/
 /*Первый Банер*/
 .banner{
-    background-image: url(../img/background.svg);
+    background-image: url(../images/background.svg);
     background-size: cover;
     height: 707px;
 }
@@ -1030,7 +1030,7 @@ body{
     flex-direction: column;
     justify-content: space-around;
     width: calc(100%/2 * 1);
-    background-image: url(../img/town_background.svg);
+    background-image: url(../images/town_background.svg);
     height: 645px;
 }
 .item_opportunity{
@@ -1204,7 +1204,7 @@ body{
     position: relative;
     height: 900px;
     width: 100%;
-    background-image: url(../img/background_style.svg);
+    background-image: url(../images/background_style.svg);
     background-size: cover;
     margin-top: 200px;
     margin-bottom: 150px;
@@ -1406,7 +1406,7 @@ body{
     position: relative;
     width: 100%;
     height: 400px;
-    background-image: url(../img/Frame.svg);
+    background-image: url(../images/Frame.svg);
 }
 
 .background_item-clients{
@@ -1517,7 +1517,7 @@ body{
     position: relative;
     height: 950px;
     width: 100%;
-    background-image: url(../img/background_map.svg);
+    background-image: url(../images/background_map.svg);
     background-size: cover;
 
 }
